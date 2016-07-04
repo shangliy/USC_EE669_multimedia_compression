@@ -1,0 +1,28 @@
+# EE669 Homework Assignment #2 
+# march 1, 2015 
+# Name: Shanglin Yang 
+# ID: 3795329308 
+# Email: shangliy@usc.edu 
+# compiled on WINDOWS 8 with Visul Studio 2015 and linux unbuntu with codeblocks
+
+a. Files discribtion 
+	The Zip bag contains five folder, 
+	QM_CODER_SHANGLIY : code for standard qm coding
+	CABAC_SHANGLIY:code for Context based qm coding as well as imgame preprocessing 
+	Scalar quan: code for scalar quantization 
+	buile_train: build the rain set for vector quantization
+	DCTQUA: Do the DCT anf quantization 
+	psnr_com:calculate the PSNR for raw data
+	gene_reapply: Gnenerate the raw data that reapplying method needs
+	PRO_PRE:Do the three pro_processing
+	
+b. Guilde to compile code 
+	QM_CODER_SHANGLIY : compile under Visul Studio 2015 and put the input file in the same folder,you can type in the command after running the program
+        
+	CABAC_SHANGLIY:  compile under Visul Studio 2015 and put the input file in the same folder,,you can type in the command after running the program
+	Scalar quan: compile under Visul Studio 2015 and put the input file in the same folder,,you can type in the command after running the program
+	buile_train:  compile using gcc under linux or using codeblocks,put three train image in the same folder
+	DCTQUA: compile using gcc under linux or using codeblocks,put raw 16*16 files in the same folder 
+	psnr_com:compile using gcc under linux or using codeblocks,put raw data files in the same folder
+	gene_reapply: compile using gcc under linux or using codeblocks,you need to put all 10 raw data under the folder ,choose degug=1,to generate the first shifteed raw data, then you need to compress and decompress through jpeg , then put back the new raw dat in the same folde ,choose debug =0 ,then we get the new 10 raw data;
+	PRO_PRE:compile using gcc under linux or using codeblocks,put all needed files under folder . If you want to do the reapplying ,must first using "gebe_reapply" toget the new 10 raw data.

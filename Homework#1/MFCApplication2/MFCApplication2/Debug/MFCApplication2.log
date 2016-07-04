@@ -1,0 +1,54 @@
+﻿Build started 2/5/2015 7:52:01 PM.
+     1>Project "C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\MFCApplication2\MFCApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MFCApplication2Dlg.cpp
+         MFCApplication2Dlg.cpp
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(37): warning C4459: declaration of 'bit_file' hides global declaration
+         c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(27): note: see declaration of 'bit_file'
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(94): warning C4390: ';': empty controlled statement found; is this the intent?
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(168): warning C4101: 'size': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(213): warning C4101: 'i': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(265): warning C4101: 'le': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(268): warning C4101: 'na': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(266): warning C4101: 'ri': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(267): warning C4101: 'pa': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(269): warning C4101: 'we': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(270): warning C4101: 'ord': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(335): warning C4101: 'i': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(421): warning C4101: 'j': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(813): warning C4101: 'i': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(928): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(932): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(969): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1054): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1132): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1246): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1254): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1264): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1301): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1310): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1382): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1405): warning C4244: 'argument': conversion from 'double' to 'const unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1443): warning C4244: 'argument': conversion from 'double' to 'const unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1463): warning C4244: 'argument': conversion from 'double' to 'const unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1468): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1514): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1333): warning C4101: 'k': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1597): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1640): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1667): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1776): warning C4244: 'argument': conversion from 'double' to 'const unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1794): warning C4244: 'argument': conversion from 'double' to 'const unsigned char', possible loss of data
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1799): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\mfcapplication2\mfcapplication2\mfcapplication2dlg.cpp(1845): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\Debug\MFCApplication2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\Debug\MFCApplication2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\Debug\MFCApplication2.lib" /MACHINE:X86 Debug\MFCApplication2.res
+         Debug\MFCApplication2.obj
+         Debug\MFCApplication2Dlg.obj
+         Debug\stdafx.obj
+         MFCApplication2.vcxproj -> C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\Debug\MFCApplication2.exe
+     1>Done Building Project "C:\Users\Yang\Documents\Visual Studio 2015\Projects\MFCApplication2\MFCApplication2\MFCApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.31

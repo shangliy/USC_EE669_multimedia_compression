@@ -1,0 +1,28 @@
+﻿Build started 3/1/2015 8:24:52 PM.
+     1>Project "C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\QM_CODER_SHANGLIY\QM_CODER_SHANGLIY.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\QM_CODER_SHANGLIY.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt QM_CODER_SHANGLIY.cpp
+         QM_CODER_SHANGLIY.cpp
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(82): warning C4390: ';': empty controlled statement found; is this the intent?
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(130): warning C4101: 'le': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(133): warning C4101: 'na': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(131): warning C4101: 'ri': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(132): warning C4101: 'pa': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(134): warning C4101: 'we': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(135): warning C4101: 'ord': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(200): warning C4101: 'i': unreferenced local variable
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(353): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(376): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(566): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(583): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(634): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\yang\documents\visual studio 2015\projects\qm_coder_shangliy\qm_coder_shangliy\qm_coder_shangliy.cpp(666): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\Debug\QM_CODER_SHANGLIY.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\Debug\QM_CODER_SHANGLIY.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\Debug\QM_CODER_SHANGLIY.lib" /MACHINE:X86 Debug\QM_CODER_SHANGLIY.obj
+         Debug\stdafx.obj
+         QM_CODER_SHANGLIY.vcxproj -> C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\Debug\QM_CODER_SHANGLIY.exe
+     1>Done Building Project "C:\Users\Yang\documents\visual studio 2015\Projects\QM_CODER_SHANGLIY\QM_CODER_SHANGLIY\QM_CODER_SHANGLIY.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.22

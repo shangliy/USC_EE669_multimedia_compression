@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1424928578 source:/home/shangliy/Documents/C++PROJECT/build3_in one file/main.cpp
+	"fstream"
+	"iostream"
+	"vector"
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"bitio.h"
+	"errhand.h"
+	<math.h>
+	<malloc.h>
+
+1422488999 /home/shangliy/Documents/C++PROJECT/build3_in one file/bitio.h
+	<stdio.h>
+
+1422488999 /home/shangliy/Documents/C++PROJECT/build3_in one file/errhand.h
+

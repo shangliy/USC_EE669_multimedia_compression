@@ -1,0 +1,18 @@
+﻿Build started 3/1/2015 5:15:44 AM.
+     1>Project "C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\CABAC_SHANGLIY\CABAC_SHANGLIY.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CABAC_SHANGLIY.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt CABAC_SHANGLIY.cpp
+         CABAC_SHANGLIY.cpp
+     1>c:\users\yang\documents\visual studio 2015\projects\cabac_shangliy\cabac_shangliy\cabac_shangliy.cpp(86): warning C4390: ';': empty controlled statement found; is this the intent?
+     1>c:\users\yang\documents\visual studio 2015\projects\cabac_shangliy\cabac_shangliy\cabac_shangliy.cpp(663): warning C4459: declaration of 'output_file' hides global declaration
+         c:\users\yang\documents\visual studio 2015\projects\cabac_shangliy\cabac_shangliy\cabac_shangliy.cpp(196): note: see declaration of 'output_file'
+     1>c:\users\yang\documents\visual studio 2015\projects\cabac_shangliy\cabac_shangliy\cabac_shangliy.cpp(757): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\Debug\CABAC_SHANGLIY.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\Debug\CABAC_SHANGLIY.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\Debug\CABAC_SHANGLIY.lib" /MACHINE:X86 Debug\CABAC_SHANGLIY.obj
+         Debug\stdafx.obj
+         CABAC_SHANGLIY.vcxproj -> C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\Debug\CABAC_SHANGLIY.exe
+     1>Done Building Project "C:\Users\Yang\Documents\Visual Studio 2015\Projects\CABAC_SHANGLIY\CABAC_SHANGLIY\CABAC_SHANGLIY.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.07
